@@ -8,7 +8,7 @@ Creative Programming Assignment 01 - Python Data Analysis II
 
 Student: James Kong
 
-This projects analyzes the US National Crime Dataset from 1991 to 2020. The questions to be answered are:
+This project analyzes the US National Crime Dataset from 1991 to 2020. The questions to be answered are:
 
 Question 1: Has black hate crime violence gone down since 1991 or increased?
 
